@@ -14,6 +14,7 @@
             //string band = Console.ReadLine();
             //Console.WriteLine($"The character above {name}, has a favorite {color}. His {animal} is his favortie companion. When his favorite {band} makes him a rocker!!");
             Console.WriteLine(methodex2.Sum(6, 2));
+           
 
           
             
